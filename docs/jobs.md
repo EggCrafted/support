@@ -70,6 +70,19 @@ While we will provide you with the adequate training necessary to take on this v
 
 [Click here to apply](https://ngmc.co/request)
 
+
+### Game Designer
+
+Game Designer is an in/out game creativity staff position. You must be at least 13 years old to apply, and must also have more than 250 in-Game level to apply.
+
+Successful applicants will be given the Game Designer (and if necessary, beta tester role) both in Discord and in-game. They will also receive access to the creative department servers, in which they suggest their own ideas or other player's ideas to improve the quality of the in-game server.
+
+We expect applicants to be active and committed in the #feedback channel in discord, looking for ideas to improve the quality of the server.
+
+While we will provide you with the adequate training necessary to take on this volunteer role, you are responsible for the physical equipment you will use to complete the tasks we ask of you while in this position.
+
+[Click here to apply](https://ngmc.co/request)
+
 ### Discord Moderator
 
 ::: warning PLEASE NOTE
